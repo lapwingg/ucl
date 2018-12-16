@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>PSV</Name>
+        <Matches>6</Matches>
+        <Points>11</Points>
+        <Win>3</Win>
+        <Draw>2</Draw>
+        <Lost>1</Lost>
+        <Goals>17:9</Goals>
+    </Elem>
+    <Elem>
+        <Name>Liverpool FC</Name>
+        <Matches>6</Matches>
+        <Points>9</Points>
+        <Win>3</Win>
+        <Draw>0</Draw>
+        <Lost>3</Lost>
+        <Goals>9:7</Goals>
+    </Elem>
+    <Elem>
+        <Name>SSC Napoli</Name>
+        <Matches>6</Matches>
+        <Points>9</Points>
+        <Win>2</Win>
+        <Draw>3</Draw>
+        <Lost>1</Lost>
+        <Goals>7:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>FK Crvena Zvezda</Name>
+        <Matches>6</Matches>
+        <Points>4</Points>
+        <Win>1</Win>
+        <Draw>1</Draw>
+        <Lost>4</Lost>
+        <Goals>5:17</Goals>
+    </Elem>
+</Elems>

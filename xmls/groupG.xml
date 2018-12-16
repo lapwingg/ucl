@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>Real Madrid CF</Name>
+        <Matches>6</Matches>
+        <Points>12</Points>
+        <Win>4</Win>
+        <Draw>0</Draw>
+        <Lost>2</Lost>
+        <Goals>12:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>AS Roma</Name>
+        <Matches>6</Matches>
+        <Points>9</Points>
+        <Win>3</Win>
+        <Draw>0</Draw>
+        <Lost>3</Lost>
+        <Goals>11:8</Goals>
+    </Elem>
+    <Elem>
+        <Name>FC Victoria Plzen</Name>
+        <Matches>6</Matches>
+        <Points>7</Points>
+        <Win>2</Win>
+        <Draw>1</Draw>
+        <Lost>3</Lost>
+        <Goals>7:16</Goals>
+    </Elem>
+    <Elem>
+        <Name>CKSA Moskwa</Name>
+        <Matches>6</Matches>
+        <Points>7</Points>
+        <Win>2</Win>
+        <Draw>1</Draw>
+        <Lost>3</Lost>
+        <Goals>8:9</Goals>
+    </Elem>
+</Elems>

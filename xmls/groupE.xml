@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>FC Bayern Munchen</Name>
+        <Matches>6</Matches>
+        <Points>14</Points>
+        <Win>4</Win>
+        <Draw>2</Draw>
+        <Lost>0</Lost>
+        <Goals>15:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>AFC Ajax</Name>
+        <Matches>6</Matches>
+        <Points>12</Points>
+        <Win>3</Win>
+        <Draw>3</Draw>
+        <Lost>0</Lost>
+        <Goals>11:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>SL Benfica</Name>
+        <Matches>6</Matches>
+        <Points>7</Points>
+        <Win>2</Win>
+        <Draw>1</Draw>
+        <Lost>3</Lost>
+        <Goals>2:13</Goals>
+    </Elem>
+    <Elem>
+        <Name>AEK</Name>
+        <Matches>6</Matches>
+        <Points>0</Points>
+        <Win>0</Win>
+        <Draw>0</Draw>
+        <Lost>6</Lost>
+        <Goals>2:13</Goals>
+    </Elem>
+</Elems>

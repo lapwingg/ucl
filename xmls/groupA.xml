@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name> BV Borussia 1909 (Dortmund)</Name>
+        <Matches>6</Matches>
+        <Points>13</Points>
+        <Win>4</Win>
+        <Draw>1</Draw>
+        <Lost>1</Lost>
+        <Goals>10:2</Goals>
+    </Elem>
+    <Elem>
+        <Name>Club Atletico de Madrid</Name>
+        <Matches>6</Matches>
+        <Points>13</Points>
+        <Win>4</Win>
+        <Draw>1</Draw>
+        <Lost>1</Lost>
+        <Goals>9:6</Goals>
+    </Elem>
+    <Elem>
+        <Name>Club Brugge KV</Name>
+        <Matches>6</Matches>
+        <Points>6</Points>
+        <Win>1</Win>
+        <Draw>3</Draw>
+        <Lost>2</Lost>
+        <Goals>6:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>AS Monaco FC</Name>
+        <Matches>6</Matches>
+        <Points>1</Points>
+        <Win>0</Win>
+        <Draw>1</Draw>
+        <Lost>5</Lost>
+        <Goals>2:14</Goals>
+    </Elem>
+</Elems>

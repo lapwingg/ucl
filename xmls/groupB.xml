@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name> FC Barcelona</Name>
+        <Matches>6</Matches>
+        <Points>14</Points>
+        <Win>4</Win>
+        <Draw>2</Draw>
+        <Lost>0</Lost>
+        <Goals>14:5</Goals>
+    </Elem>
+    <Elem>
+        <Name>Tottenham Hotspur FC</Name>
+        <Matches>6</Matches>
+        <Points>8</Points>
+        <Win>2</Win>
+        <Draw>2</Draw>
+        <Lost>2</Lost>
+        <Goals>9:10</Goals>
+    </Elem>
+    <Elem>
+        <Name>Inter Mediolan</Name>
+        <Matches>6</Matches>
+        <Points>8</Points>
+        <Win>2</Win>
+        <Draw>2</Draw>
+        <Lost>2</Lost>
+        <Goals>6:7</Goals>
+    </Elem>
+    <Elem>
+        <Name>PSV Endhover</Name>
+        <Matches>6</Matches>
+        <Points>2</Points>
+        <Win>0</Win>
+        <Draw>2</Draw>
+        <Lost>4</Lost>
+        <Goals>6:13</Goals>
+    </Elem>
+</Elems>

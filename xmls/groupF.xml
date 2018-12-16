@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>Manchester City FC</Name>
+        <Matches>6</Matches>
+        <Points>13</Points>
+        <Win>4</Win>
+        <Draw>1</Draw>
+        <Lost>1</Lost>
+        <Goals>16:6</Goals>
+    </Elem>
+    <Elem>
+        <Name>Olympique Lyon</Name>
+        <Matches>6</Matches>
+        <Points>8</Points>
+        <Win>1</Win>
+        <Draw>5</Draw>
+        <Lost>0</Lost>
+        <Goals>12:11</Goals>
+    </Elem>
+    <Elem>
+        <Name>Szachtar Donieck</Name>
+        <Matches>6</Matches>
+        <Points>6</Points>
+        <Win>1</Win>
+        <Draw>3</Draw>
+        <Lost>2</Lost>
+        <Goals>8:16</Goals>
+    </Elem>
+    <Elem>
+        <Name>Hoffenheim</Name>
+        <Matches>6</Matches>
+        <Points>3</Points>
+        <Win>0</Win>
+        <Draw>3</Draw>
+        <Lost>3</Lost>
+        <Goals>11:14</Goals>
+    </Elem>
+</Elems>

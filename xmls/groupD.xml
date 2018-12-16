@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>FC Porto</Name>
+        <Matches>6</Matches>
+        <Points>16</Points>
+        <Win>5</Win>
+        <Draw>1</Draw>
+        <Lost>0</Lost>
+        <Goals>15:6</Goals>
+    </Elem>
+    <Elem>
+        <Name>FC Schalke 04</Name>
+        <Matches>6</Matches>
+        <Points>11</Points>
+        <Win>3</Win>
+        <Draw>2</Draw>
+        <Lost>1</Lost>
+        <Goals>6:4</Goals>
+    </Elem>
+    <Elem>
+        <Name>Galatasaray SK</Name>
+        <Matches>6</Matches>
+        <Points>4</Points>
+        <Win>1</Win>
+        <Draw>1</Draw>
+        <Lost>4</Lost>
+        <Goals>5:8</Goals>
+    </Elem>
+    <Elem>
+        <Name>Lokomotiv Moskwa</Name>
+        <Matches>6</Matches>
+        <Points>3</Points>
+        <Win>1</Win>
+        <Draw>0</Draw>
+        <Lost>5</Lost>
+        <Goals>4:12</Goals>
+    </Elem>
+</Elems>

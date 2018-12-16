@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elems>
+    <Elem>
+        <Name>Juventus FC</Name>
+        <Matches>6</Matches>
+        <Points>12</Points>
+        <Win>4</Win>
+        <Draw>0</Draw>
+        <Lost>2</Lost>
+        <Goals>9:4</Goals>
+    </Elem>
+    <Elem>
+        <Name>Manchester United FC</Name>
+        <Matches>6</Matches>
+        <Points>10</Points>
+        <Win>3</Win>
+        <Draw>1</Draw>
+        <Lost>2</Lost>
+        <Goals>7:4</Goals>
+    </Elem>
+    <Elem>
+        <Name>Valencia FC</Name>
+        <Matches>6</Matches>
+        <Points>8</Points>
+        <Win>2</Win>
+        <Draw>2</Draw>
+        <Lost>2</Lost>
+        <Goals>6:6</Goals>
+    </Elem>
+    <Elem>
+        <Name>Young Boys Berno</Name>
+        <Matches>6</Matches>
+        <Points>4</Points>
+        <Win>1</Win>
+        <Draw>1</Draw>
+        <Lost>4</Lost>
+        <Goals>4:12</Goals>
+    </Elem>
+</Elems>

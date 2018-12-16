@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+	<head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="content-language" content="pl" />
+        <meta name="author" content="Kamil Czajka" />
+	    <title>UEFA Champions League 2018/2019 - Statistics</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"></link>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src = "scripts/createTableH.js"></script>
+        <script src = "scripts/databaseH.js"></script>
+	</head>
+	<body>
+                <div class = "subpageDiv">
+                        <h1 class = "subpageTitle">Group H</h1>
+                        <img class = "subpageLogo" src = "images/h/juventus_logo.png"></img>  
+                        <img class = "subpageLogo" src = "images/h/boys_logo.png"></img>
+                        <img class = "subpageLogo" src = "images/h/united_logo.png"></img>
+                        <img class = "subpageLogo" src = "images/h/valencia_logo.png"></img>
+                </div>
+            <table id = "table">
+                <tr>
+                    <th onclick = "sortTable(0)">Name</th>
+                    <th onclick = "sortTable(1)">Matches</th>
+                    <th onclick = "sortTable(2)">Points</th>
+                    <th onclick = "sortTable(3)">Win</th>
+                    <th onclick = "sortTable(4)">Draw</th>
+                    <th onclick = "sortTable(5)">Lost</th>
+                    <th onclick = "sortTable(6)">Goals</th>
+                </tr>
+            </table>
+            <script src = "scripts/sortTable.js"></script>
+            <div id = "comments">
+                <h3>Comments:</h3>
+            </div>
+            <form name = "aboutGroupH">
+                <textarea id = "textareaFormat" rows = "5" cols = "30" placeholder = "What do you think about teams in Group H?"></textarea>
+                <button onclick = "store()" type = "button">Send message</button>
+                <script  type="text/javascript">
+                    var i = 0;
+                    function store(){
+                        var input = document.getElementById("textareaFormat");
+                        localStorage.setItem("postH_" + i, input.value);
+                        i++;
+                    }
+                </script>
+            </form>
+	</body>
+</html>
